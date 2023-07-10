@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-QTEPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\BackUpUnreal\TestPluginArea\QTEPlugin\QTEPlugin\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\BackUpUnreal\TestPluginArea\QTEPlugin\QTEPlugin\HostProject\Plugins\QTEPlugin\Intermediate\Build\Win64\UnrealEditor\Development\QTEPlugin\Module.QTEPlugin.cpp.obj"
+"D:\BackUpUnreal\TestPluginArea\QTEPlugin\QTEPlugin\HostProject\Plugins\QTEPlugin\Intermediate\Build\Win64\UnrealEditor\Development\QTEPlugin\Module.QTEPlugin.gen.cpp.obj"
+"D:\BackUpUnreal\TestPluginArea\QTEPlugin\QTEPlugin\HostProject\Plugins\QTEPlugin\Intermediate\Build\Win64\UnrealEditor\Development\QTEPlugin\Default.rc2.res"
+/OUT:"D:\BackUpUnreal\TestPluginArea\QTEPlugin\QTEPlugin\HostProject\Plugins\QTEPlugin\Intermediate\Build\Win64\UnrealEditor\Development\QTEPlugin\UnrealEditor-QTEPlugin.lib"

@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.QTEPlugin.cpp.obj": [
+			"QTEPlugin.cpp.obj",
+			"SQTEActorBinder.cpp.obj",
+			"SQTEEntityComponent.cpp.obj",
+			"SQTEOwnerInputComponent.cpp.obj",
+			"SQTEUtilityFunctionLibrary.cpp.obj",
+			"UQTEUtilities.cpp.obj",
+			"SourceTest.cpp.obj"
+		],
+		"Module.QTEPlugin.gen.cpp.obj": [
+			"QTEPlugin.init.gen.cpp.obj",
+			"SQTEActorBinder.gen.cpp.obj",
+			"SQTEEntityComponent.gen.cpp.obj",
+			"SQTEOwnerInputComponent.gen.cpp.obj",
+			"SQTEUtilityFunctionLibrary.gen.cpp.obj",
+			"UQTEUtilities.gen.cpp.obj"
+		]
+	}
+}
