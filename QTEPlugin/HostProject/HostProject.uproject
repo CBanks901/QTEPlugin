@@ -1,1 +1,10 @@
-{ "FileVersion": 3, "Plugins": [ { "Name": "QTEPlugin", "Enabled": true } ] }
+{
+	"FileVersion": 3,
+	"Plugins": [
+		{
+			"Name": "QTEPlugin",
+			"Enabled": true
+		}
+	],
+	"EngineAssociation": "5.0"
+}
