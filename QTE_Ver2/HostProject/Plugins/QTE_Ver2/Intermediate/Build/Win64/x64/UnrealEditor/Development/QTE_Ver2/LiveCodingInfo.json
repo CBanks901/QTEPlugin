@@ -1,0 +1,35 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.QTE_Ver2.1_of_3.cpp.obj": [
+			"QTE_Ver2.init.gen.cpp.obj",
+			"SQTEActorBinder.gen.cpp.obj",
+			"SQTEEntityComponent.gen.cpp.obj",
+			"SQTEOwnerInputComponent.gen.cpp.obj",
+			"SQTEStarterComponent.gen.cpp.obj",
+			"SQTEUtilityFunctionLibrary.gen.cpp.obj",
+			"SQTEWidget.gen.cpp.obj"
+		],
+		"Module.QTE_Ver2.2_of_3.cpp.obj": [
+			"SQTE_ConditionalDisplayData.gen.cpp.obj",
+			"SQTE_ContainerWidget.gen.cpp.obj",
+			"SQTE_DisplayDataWidget.gen.cpp.obj",
+			"SQTE_KeyWidget.gen.cpp.obj",
+			"UQTEUtilities.gen.cpp.obj"
+		],
+		"Module.QTE_Ver2.3_of_3.cpp.obj": [
+			"QTE_Ver2.cpp.obj",
+			"SQTEActorBinder.cpp.obj",
+			"SQTEEntityComponent.cpp.obj",
+			"SQTEOwnerInputComponent.cpp.obj",
+			"SQTEStarterComponent.cpp.obj",
+			"SQTEUtilityFunctionLibrary.cpp.obj",
+			"SQTEWidget.cpp.obj",
+			"SQTE_ConditionalDisplayData.cpp.obj",
+			"SQTE_ContainerWidget.cpp.obj",
+			"SQTE_DisplayDataWidget.cpp.obj",
+			"SQTE_KeyWidget.cpp.obj",
+			"UQTEUtilities.cpp.obj"
+		]
+	}
+}

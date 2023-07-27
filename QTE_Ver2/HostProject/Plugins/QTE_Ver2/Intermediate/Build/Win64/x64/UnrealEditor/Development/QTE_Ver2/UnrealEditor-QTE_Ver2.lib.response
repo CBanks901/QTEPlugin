@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-QTE_Ver2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\BackUpUnreal\TestPluginArea\QTE_Ver2\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\BackUpUnreal\TestPluginArea\QTE_Ver2\HostProject\Plugins\QTE_Ver2\Intermediate\Build\Win64\x64\UnrealEditor\Development\QTE_Ver2\Module.QTE_Ver2.1_of_3.cpp.obj"
+"D:\BackUpUnreal\TestPluginArea\QTE_Ver2\HostProject\Plugins\QTE_Ver2\Intermediate\Build\Win64\x64\UnrealEditor\Development\QTE_Ver2\Module.QTE_Ver2.2_of_3.cpp.obj"
+"D:\BackUpUnreal\TestPluginArea\QTE_Ver2\HostProject\Plugins\QTE_Ver2\Intermediate\Build\Win64\x64\UnrealEditor\Development\QTE_Ver2\Module.QTE_Ver2.3_of_3.cpp.obj"
+"D:\BackUpUnreal\TestPluginArea\QTE_Ver2\HostProject\Plugins\QTE_Ver2\Intermediate\Build\Win64\x64\UnrealEditor\Development\QTE_Ver2\Default.rc2.res"
+/OUT:"D:\BackUpUnreal\TestPluginArea\QTE_Ver2\HostProject\Plugins\QTE_Ver2\Intermediate\Build\Win64\x64\UnrealEditor\Development\QTE_Ver2\UnrealEditor-QTE_Ver2.lib"
